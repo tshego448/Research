@@ -7,3 +7,4 @@ Orvia Studio Group, 2026. Orvia Studio Group | Web Design & Creative Studio Sout
 <img width="1919" height="946" alt="Screenshot 2026-09-17 124004" src="https://github.com/user-attachments/assets/686754c4-0e58-429f-bd3f-7d51570f8839" />
 <img width="1919" height="948" alt="Screenshot 2026-09-17 123949" src="https://github.com/user-attachments/assets/436c45f4-a256-41be-9f4b-865752a1ca17" />
 <img width="1919" height="1032" alt="Screenshot 2026-09-17 123933" src="https://github.com/user-attachments/assets/77f3f60d-36bd-4e69-8561-92492848319b" />
+The code explanations are in the html files,  every page an code is explained in detail for clarification.
